@@ -1,0 +1,9 @@
+-
+    cve:
+        - CVE-2015-7697
+        - CVE-2014-9636
+    name: unzip
+    version: '6.0'
+    comment: |
+        Patches applied without upstream minor release
+

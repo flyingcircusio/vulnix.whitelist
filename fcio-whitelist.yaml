@@ -1,5 +1,14 @@
 -
     cve:
+        - CVE-2014-9112
+        - CVE-2015-1197
+        - CVE-2016-2037
+    name: cpio
+    version: '2.11'
+    comment: |
+        Patches backported from 2.12 in nix packages
+-
+    cve:
         - CVE-2015-7697
         - CVE-2014-9636
     name: unzip

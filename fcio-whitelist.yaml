@@ -1,5 +1,12 @@
 -
     cve:
+        - CVE-2011-2716
+        - CVE-2013-1813
+    name: busybox
+    comment: |
+        CVE only apply on busybox < 1.20.0 (CVE-2011-2716) or 1.21.0 (CVE-2013-1813)
+-
+    cve:
         - CVE-2014-9112
         - CVE-2015-1197
         - CVE-2016-2037

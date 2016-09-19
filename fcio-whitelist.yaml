@@ -13,6 +13,12 @@
     status: inprogress
 -
     cve:
+        - CVE-2016-1567
+    name: chrony
+    version: '2.1.1'
+    status: inprogress
+-
+    cve:
         - CVE-2014-9112
         - CVE-2015-1197
         - CVE-2016-2037

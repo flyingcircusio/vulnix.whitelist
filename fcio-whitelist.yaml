@@ -19,6 +19,12 @@
     status: inprogress
 -
     cve:
+        - CVE-2016-6254
+    name: collectd
+    version: '5.4.2'
+    status: inprogress
+-
+    cve:
         - CVE-2014-9112
         - CVE-2015-1197
         - CVE-2016-2037

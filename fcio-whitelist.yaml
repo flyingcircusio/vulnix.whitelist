@@ -124,6 +124,18 @@
     comment: |
         Patches backported via Nix expression
 -
+    name: jasper
+    version: '1.900.1'
+    cve:
+        - CVE-2011-4516
+        - CVE-2011-4517
+        - CVE-2016-1577
+        - CVE-2016-1867
+        - CVE-2016-2089
+        - CVE-2016-2116
+    comment: |
+        Addressed via #23878
+-
     cve:
         - CVE-2014-9636
         - CVE-2015-7697

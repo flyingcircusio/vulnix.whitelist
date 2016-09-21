@@ -160,6 +160,16 @@
     comment: |
         Very unlikely to be an issue on our platform.
 -
+    name: libidn
+    version: '1.32'
+    cve:
+        - CVE-2015-8948
+        - CVE-2016-6261
+        - CVE-2016-6262
+        - CVE-2016-6263
+    comment: |
+        Addressed via #23893
+-
     cve:
         - CVE-2014-9636
         - CVE-2015-7697

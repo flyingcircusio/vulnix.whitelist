@@ -69,7 +69,7 @@
         - CVE-2013-0340
     name: expat
     version: '2.1.0'
-    status: inpgrogress
+    status: inprogress
 -
     cve:
         - CVE-2014-9636

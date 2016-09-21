@@ -36,7 +36,7 @@
     cve:
         - CVE-2016-3739
     name: curl
-    version '7.47'
+    version: '7.47'
     status: 'inprogress'
 -
     cve:

@@ -175,7 +175,7 @@
     version: '1.0.25'
     cve:
         - CVE-2015-7805
-    status: 'inprogess'
+    status: 'inprogress'
     comment: |
         Addressed via #23894
 -

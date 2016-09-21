@@ -167,8 +167,17 @@
         - CVE-2016-6261
         - CVE-2016-6262
         - CVE-2016-6263
+    status: 'inprogress'
     comment: |
         Addressed via #23893
+-
+    name: libsndfile
+    version: '1.0.25'
+    cve:
+        - CVE-2015-7805
+    status: 'inprogess'
+    comment: |
+        Addressed via #23894
 -
     cve:
         - CVE-2014-9636

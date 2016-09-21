@@ -101,6 +101,7 @@
 -
     name: ip
     cve:
+        - CVE-2013-6034
         - CVE-2013-6035
     comment: |
         CVE for embedded systems.

@@ -153,6 +153,13 @@
     comment: |
         Addressed via #23890
 -
+    name: libgcrypt
+    version: '1.6.4'
+    cve:
+        - CVE-2015-7511
+    comment: |
+        Very unlikely to be an issue on our platform.
+-
     cve:
         - CVE-2014-9636
         - CVE-2015-7697

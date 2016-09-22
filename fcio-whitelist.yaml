@@ -187,6 +187,14 @@
     comment: |
         Addressed via #23926
 -
+    name: libvirt
+    version: '1.2.19'
+    cve:
+        - CVE-2015-5247
+    status: 'inprogress'
+    comment: |
+        Addressed via #23927
+-
     cve:
         - CVE-2014-9636
         - CVE-2015-7697

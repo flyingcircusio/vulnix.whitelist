@@ -195,6 +195,18 @@
     comment: |
         Addressed via #23927
 -
+    name: libxml2
+    version: '2.9.3'
+    cve:
+        - CVE-2016-4447
+        - CVE-2016-4449
+        - CVE-2016-4448
+        - CVE-2016-3705
+        - CVE-2016-3627
+    status: 'inprogress'
+    comment: |
+        Addressed via 23929
+-
     cve:
         - CVE-2014-9636
         - CVE-2015-7697

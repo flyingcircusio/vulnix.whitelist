@@ -276,6 +276,13 @@
     comment: |
         Addressed via #24058
 -
+    name: net-snmp
+    version: '5.7.3'
+    cve:
+        - CVE-2014-2285
+    comment: |
+        Addressed via #24059
+-
     cve:
         - CVE-2014-9636
         - CVE-2015-7697

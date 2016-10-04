@@ -295,6 +295,13 @@
     comment: |
         Addressed via #24060
 -
+    name: openldap
+    version: '2.4.42'
+    cve:
+        -  CVE-2015-6908
+    comment: |
+        Patch backported to running version
+-
     cve:
         - CVE-2014-9636
         - CVE-2015-7697

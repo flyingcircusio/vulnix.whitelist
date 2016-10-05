@@ -315,8 +315,17 @@
     version: '8.37'
     cve:
         - CVE-2016-3191
+    status: 'inprogress'
     comment: |
         Addressed with #24063
+-
+    name: perl
+    version: '5.20.2'
+    cve:
+        - CVE-2016-1238
+    status: 'inprogress'
+    comment: |
+        Addressed with #24076
 -
     cve:
         - CVE-2014-9636

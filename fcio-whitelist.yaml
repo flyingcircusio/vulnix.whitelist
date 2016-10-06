@@ -379,7 +379,15 @@
     status: 'inprogress'
     comment: |
         Addressed with #24084
-
+-
+    name: spice
+    version: '0.12.5'
+    cve:
+        - CVE-2015-5260
+        - CVE-2015-5261
+    status: 'inprogress'
+    comment: |
+        Addressed with #24095
 -
     name: unzip
     version: '6.0'

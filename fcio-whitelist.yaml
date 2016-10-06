@@ -6,70 +6,72 @@
     comment: |
         CVE only apply on busybox < 1.20.0 (CVE-2011-2716) or 1.21.0 (CVE-2013-1813)
 -
-    cve:
-        - CVE-2016-3189
     name: bzip2
     version: '1.0.6'
+    cve:
+        - CVE-2016-3189
     comment: |
         CVE is regarded as of having low impact by Redhat https://bugzilla.redhat.com/show_bug.cgi?id=1319648
 -
-    cve:
-        - CVE-2016-1567
     name: chrony
     version: '2.1.1'
+    cve:
+        - CVE-2016-1567
     status: 'inprogress'
 -
-    cve:
-        - CVE-2016-6254
     name: collectd
     version: '5.4.2'
+    cve:
+        - CVE-2016-6254
     status: 'inprogress'
 -
+    name: cpio
+    version: '2.11'
     cve:
         - CVE-2014-9112
         - CVE-2015-1197
         - CVE-2016-2037
-    name: cpio
-    version: '2.11'
     comment: |
         Patches backported from 2.12 in nix packages
 -
-    cve:
-        - CVE-2016-3739
     name: curl
     version: '7.47'
+    cve:
+        - CVE-2016-3739
     status: 'inprogress'
 -
-    cve:
-        - CVE-2013-4122
     name: cyrus-sasl
     version: '1.26'
+    cve:
+        - CVE-2013-4122
     status: 'inprogress'
 -
-    cve:
-        - CVE-2015-8899
     name: dnsmasq
     version: '1.75'
+    cve:
+        - CVE-2015-8899
+
     status: 'inprogress'
 -
+    name: dosfstools
+    version: '3.0.28'
     cve:
         - CVE-2015-8872
         - CVE-2016-4804
-    name: dosfstools
-    version: '3.0.28'
+
     status: 'inprogress'
 -
-    cve:
-        - CVE-2015-1283
     name: expat
     version: '2.1.0'
+    cve:
+        - CVE-2015-1283
     comment: |
         Patch for CVE applied
 -
-    cve:
-        - CVE-2013-0340
     name: expat
     version: '2.1.0'
+    cve:
+        - CVE-2013-0340
     status: 'inprogress'
 -
     cve:
@@ -80,14 +82,16 @@
     comment: |
         Addressed via #23873
 -
-    cve:
-        - CVE-2014-7817
     name: glibc
     version: '2.21'
+    cve:
+        - CVE-2014-7817
     status: 'inprogress'
     comment: |
         Addressed via #23875
 -
+    name: glibc
+    version: '2.21'
     cve:
         - CVE-2014-8121
         - CVE-2015-1781
@@ -95,8 +99,6 @@
         - CVE-2016-1234
         - CVE-2016-3075
         - CVE-2016-3706
-    name: glibc
-    version: '2.21'
     comment: |
         Patches applied via Nix expression
 -

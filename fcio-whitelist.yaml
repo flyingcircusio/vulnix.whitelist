@@ -389,6 +389,15 @@
     comment: |
         Addressed with #24095
 -
+    name: subversion
+    version: '0.18.5'
+    cve:
+        - CVE-2016-2167
+        - CVE-2016-2168
+    comment: |
+        We don't use Subversion in this way.
+
+-
     name: unzip
     version: '6.0'
     cve:

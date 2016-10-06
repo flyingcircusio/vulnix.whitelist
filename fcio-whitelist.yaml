@@ -74,10 +74,22 @@
         - CVE-2013-0340
     status: 'inprogress'
 -
+    name: firmware
     cve:
-        - CVE-2015-5276
+        - CVE-2016-6257
+        - CVE-2014-8655
+        - CVE-2014-8657
+        - CVE-2014-8654
+        - CVE-2013-2645
+        - CVE-2014-8656
+        - CVE-2014-8653
+    comment: |
+        Not applying to our systems
+-
     name: gcc
     version: '4.9.3'
+    cve:
+        - CVE-2015-5276
     status: 'inprogress'
     comment: |
         Addressed via #23873

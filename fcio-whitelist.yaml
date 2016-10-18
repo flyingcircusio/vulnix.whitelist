@@ -60,8 +60,8 @@
     cve:
         - CVE-2015-8872
         - CVE-2016-4804
-
-    status: 'inprogress'
+    comment: |
+        We usually don't deal with FAT filesystemes. Re #23867
 -
     name: expat
     version: '2.1.0'

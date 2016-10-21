@@ -116,6 +116,13 @@
     comment: |
         Patches applied via Nix expression
 -
+    name: hook
+    cve:
+        - CVE-2014-6829
+    comment: |
+        The CVE applies to  com.hook.android application 0.9.3 for
+        Android which is not used on our end.
+-
     name: ip
     cve:
         - CVE-2013-6034

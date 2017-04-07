@@ -3,6 +3,7 @@
     cve:
         - CVE-2017-6399
         - CVE-2017-6406
+        - CVE-2017-6400
     comment: |
         CVE applies only to Veritas NetBackup and NetBackup Appliance
 -

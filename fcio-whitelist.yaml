@@ -421,7 +421,7 @@
         Addressed with #24095
 -
     name: subversion
-    version: '1.18.5'
+    version: '1.18.15'
     cve:
         - CVE-2016-2167
         - CVE-2016-2168

@@ -237,7 +237,16 @@
         - CVE-2016-3627
     status: 'inprogress'
     comment: |
-        Addressed via 23929
+        Addressed via #23929
+-
+    name: libxslt
+    version: '1.1.28'
+    cve:
+        - CVE-2016-1683
+        - CVE-2016-1684
+    status: 'inprogress'
+    comment: |
+        Addressed via #26902
 -
     name: libyaml
     version: '0.1.6'

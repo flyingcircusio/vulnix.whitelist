@@ -7,6 +7,26 @@
     comment: |
         CVE applies only to Veritas NetBackup and NetBackup Appliance
 -
+    name: audiofile
+    version: '0.3.6'
+    cve:
+        - CVE-2017-6827
+        - CVE-2017-6834
+        - CVE-2017-6828
+        - CVE-2017-6833
+        - CVE-2017-6832
+        - CVE-2017-6837
+        - CVE-2017-6829
+        - CVE-2017-6835
+        - CVE-2017-6830
+        - CVE-2017-6836
+        - CVE-2017-6838
+        - CVE-2017-6839
+        - CVE-2017-6831
+    status: 'inprogress'
+    comment: |
+        Addressed via #26909
+-
     name: busybox
     cve:
         - CVE-2011-2716

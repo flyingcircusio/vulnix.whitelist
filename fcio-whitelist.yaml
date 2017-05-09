@@ -440,7 +440,7 @@
     cve:
         - CVE-2015-5260
         - CVE-2015-5261
-    status: 'inprogess'
+    status: 'inprogress'
     comment: |
         Addressed with #26900
 -

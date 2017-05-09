@@ -242,6 +242,13 @@
     name: libxslt
     version: '1.1.28'
     cve:
+        - CVE-2015-7995
+    comment: |
+        Patch already backported to Nix expression
+-
+    name: libxslt
+    version: '1.1.28'
+    cve:
         - CVE-2016-1683
         - CVE-2016-1684
     status: 'inprogress'

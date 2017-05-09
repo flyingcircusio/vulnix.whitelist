@@ -288,7 +288,15 @@
         - CVE-2016-5444
     status: 'inprogress'
     comment: |
-        Address via #23933
+        Addressed via #23933
+-
+    name: mariadb
+    version: '10.0.29'
+    cve:
+        - CVE-2017-3302
+    status: 'inprogress'
+    comment: |
+        Addressed with #26901
 -
     name: mysql
     version: '5.5.45'

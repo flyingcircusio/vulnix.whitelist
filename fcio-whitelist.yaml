@@ -27,6 +27,14 @@
     comment: |
         Addressed via #26909
 -
+    name: bundler
+    version: '1.10.5'
+    cve:
+        - CVE-2016-7954
+    status: 'inprogress'
+    comment: |
+        Addressed via #26910
+-
     name: busybox
     cve:
         - CVE-2011-2716

@@ -482,6 +482,14 @@
     comment: |
         Addressed with #26900
 -
+    name: shadow
+    version: '4.2.1'
+    cve:
+        - CVE-2016-6252
+    status: 'inprogress'
+    comment: |
+        Addressed via #26970
+-
     name: spice
     version: '0.12.5'
     cve:

@@ -87,7 +87,7 @@
     status: 'inprogress'
 -
     name: cyrus-sasl
-    version: '1.26'
+    version: '2.1.26'
     cve:
         - CVE-2013-4122
     comment: |

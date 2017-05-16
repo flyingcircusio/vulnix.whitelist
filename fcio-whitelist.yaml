@@ -37,10 +37,20 @@
 -
     name: busybox
     cve:
+        - CVE-2016-2148
+        - CVE-2016-2147
+        - CVE-2016-6301
+    status: 'inprogress'
+    comment: |
+        Addressed via #26962
+-
+    name: busybox
+    cve:
         - CVE-2011-2716
         - CVE-2013-1813
+        - CVE-2014-9645
     comment: |
-        CVE only apply on busybox < 1.20.0 (CVE-2011-2716) or 1.21.0 (CVE-2013-1813)
+        CVE only apply on busybox < 1.20.0 (CVE-2011-2716) or 1.21.0 (CVE-2013-1813) or  < 1.23.2 (CVE-2014-9645)
 -
     name: bzip2
     version: '1.0.6'

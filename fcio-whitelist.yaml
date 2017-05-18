@@ -464,6 +464,14 @@
     comment: |
         Addressed with #24077
 -
+    name: postgresql
+    version: '9.5.1'
+    cve:
+        - CVE-2016-2193
+    status: 'inprogress'
+    comment: |
+        Addressed with #27035
+-
     name: python
     version: '2.7.11'
     cve:

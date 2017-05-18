@@ -400,9 +400,18 @@
     name: openldap
     version: '2.4.42'
     cve:
-        -  CVE-2015-6908
+        - CVE-2015-6908
     comment: |
         Patch backported to running version
+-
+    name: openssl
+    version: '1.0.2j'
+    status: 'inprogress'
+    cve:
+        - CVE-2017-3731
+        - CVE-2017-3731
+    comment: |
+        Addressed with #27036
 -
     name: pcre
     version: '8.37'

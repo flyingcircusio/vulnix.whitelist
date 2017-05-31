@@ -238,6 +238,14 @@
     comment: |
         Very unlikely to be an issue on our platform.
 -
+    name: libgcrypt
+    version: '1.6.4'
+    cve:
+        - CVE-2016-6313
+    status: 'inprogress'
+    comment: |
+        Addressed via Re #27181
+-
     name: libidn
     version: '1.32'
     cve:

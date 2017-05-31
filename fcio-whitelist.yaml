@@ -170,7 +170,7 @@
         Android which is not used on our end.
 -
     name: imagemagick
-    version: '6.9.1-0'
+    version: '6.9.1'
     cve:
         - CVE-2015-8900
     comment: |
@@ -412,6 +412,25 @@
     status: 'inprogress'
     comment: |
         Addressed via #24060
+-
+    name: openexr
+    version: '2.2.0'
+    cve:
+        - CVE-2017-9113
+        - CVE-2017-9110
+        - CVE-2017-9110
+        - CVE-2017-9112
+        - CVE-2017-9116
+        - CVE-2017-9116
+        - CVE-2017-9112
+        - CVE-2017-9111
+        - CVE-2017-9111
+        - CVE-2017-9113
+        - CVE-2017-9114
+        - CVE-2017-9114
+    status: 'inprogress'
+    comment: |
+        Addressed via Re #27184
 -
     name: openldap
     version: '2.4.42'

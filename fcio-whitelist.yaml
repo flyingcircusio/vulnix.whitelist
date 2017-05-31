@@ -576,4 +576,15 @@
         - CVE-2015-7697
     comment: |
         Patches applied without upstream minor release
+-
+    name: zlib
+    version: '1.2.8'
+    cve:
+        - CVE-2016-9840
+        - CVE-2016-9842
+        - CVE-2016-9840
+        - CVE-2016-9842
+    status: 'inprogress'
+    comment: |
+        Addressed via Re #27182
 

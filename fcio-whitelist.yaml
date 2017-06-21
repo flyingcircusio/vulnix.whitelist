@@ -448,6 +448,18 @@
     comment: |
         Addressed with #27036
 -
+    name: openvpn
+    version: '2.3.7'
+    status: 'inprogress'
+    cve:
+        - CVE-2017-7508
+        - CVE-2017-7512
+        - CVE-2017-7520
+        - CVE-2017-7521
+        - CVE-2017-7522
+    comment: |
+        Addressed via #27552
+-
     name: pcre
     version: '8.37'
     cve:

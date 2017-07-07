@@ -86,6 +86,14 @@
         - CVE-2016-3739
     status: 'inprogress'
 -
+    name: curl
+    version: '7.53.1'
+    cve:
+        - CVE-2017-7407
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #27729
+-
     name: cyrus-sasl
     version: '2.1.26'
     cve:

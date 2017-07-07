@@ -170,6 +170,15 @@
     comment: |
         Patches applied via Nix expression
 -
+    name: glibc
+    version: '2.25'
+    cve:
+        - CVE-2016-10228
+        - CVE-2017-8804
+    status: 'inprogress'
+    comment: |
+        Addressed via #27733
+-
     name: hook
     cve:
         - CVE-2014-6829

@@ -484,6 +484,17 @@
     comment: |
         Addressed with #24063
 -
+    name: pcre
+    version: '9.40'
+    cve:
+        - CVE-2017-7244
+        - CVE-2017-7246
+        - CVE-2017-7245
+        - CVE-2017-7186
+    status: 'inprogress'
+    comment: |
+        Addressed with #27731
+-
     name: perl
     version: '5.20.2'
     cve:

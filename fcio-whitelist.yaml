@@ -403,6 +403,17 @@
     comment: |
         Addressed via #24058
 -
+    name: ncurses
+    version: '6.0'
+    cve:
+        - CVE-2017-10684
+        - CVE-2017-10684
+        - CVE-2017-10685
+        - CVE-2017-10685
+    status: 'inprogress'
+    comment: |
+        Addressed via #27732
+-
     name: net-snmp
     version: '5.7.3'
     cve:

@@ -496,7 +496,7 @@
         Addressed with #24063
 -
     name: pcre
-    version: '9.40'
+    version: '8.40'
     cve:
         - CVE-2017-7244
         - CVE-2017-7246

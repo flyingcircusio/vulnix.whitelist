@@ -224,10 +224,12 @@
     cve:
         - CVE-2011-4516
         - CVE-2011-4517
+        - CVE-2015-5221
         - CVE-2016-1577
         - CVE-2016-1867
         - CVE-2016-2089
         - CVE-2016-2116
+    status: 'inprogress'
     comment: |
         Addressed via #23878
 -

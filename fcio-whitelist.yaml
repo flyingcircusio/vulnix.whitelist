@@ -179,6 +179,14 @@
     comment: |
         Addressed via #27733
 -
+    name: gstreamer
+    version: '0.10.36'
+    cve:
+        - CVE-2016-9447
+    status: 'inprogress'
+    comment: |
+        Addressed via #28030
+-
     name: hook
     cve:
         - CVE-2014-6829

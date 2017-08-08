@@ -202,6 +202,19 @@
         Addressed via Re #27180
     status: 'inprogress'
 -
+    name: imagemagick
+    version: '6.9.8-10'
+    cve:
+        - CVE-2017-11528
+        - CVE-2017-11527
+        - CVE-2017-11529
+        - CVE-2017-11524
+        - CVE-2017-11530
+        - CVE-2017-11526
+    status: 'inprogress'
+    comment: |
+        Addressed via Re #28031
+-
     name: ip
     cve:
         - CVE-2013-6034

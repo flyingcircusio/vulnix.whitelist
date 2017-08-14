@@ -453,9 +453,8 @@
     version: '5.7.3'
     cve:
         - CVE-2014-2285
-    status: 'inprogress'
     comment: |
-        Addressed via #24059
+        5.7.3 isn't actually affected, but pre-release versions where. 
 -
     name: nettle
     version: '3.1.1'

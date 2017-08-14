@@ -480,9 +480,8 @@
         - CVE-2017-9113
         - CVE-2017-9114
         - CVE-2017-9114
-    status: 'inprogress'
     comment: |
-        Addressed via Re #27184
+        Addressed via Re #27184. Still waiting for upstream fixes.
 -
     name: openldap
     version: '2.4.42'

@@ -23,9 +23,8 @@
         - CVE-2017-6838
         - CVE-2017-6839
         - CVE-2017-6831
-    status: 'inprogress'
     comment: |
-        Addressed via #26909
+        Addressed via #26909, waiting for upstream patches that are still being reviewed.
 -
     name: bundler
     version: '1.10.5'

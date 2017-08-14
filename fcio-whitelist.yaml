@@ -31,9 +31,8 @@
     version: '1.10.5'
     cve:
         - CVE-2016-7954
-    status: 'inprogress'
     comment: |
-        Addressed via #26910
+        This is a usability issue that won't be fixed in bundler 1. The bundler developers declared this fixed for 1 by providing a blogpost: http://bundler.io/blog/2014/08/14/bundler-may-install-gems-from-a-different-source-than-expected-cve-2013-0334.html
 -
     name: busybox
     cve:

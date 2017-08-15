@@ -539,9 +539,16 @@
     version: '5.20.2'
     cve:
         - CVE-2016-1238
+    comment: |
+        No fix available. Upgrade within 5.20 later via NixOS update.
+-
+    name: perl
+    version: '5.22.2'
+    cve:
+        - CVE-2016-1238
     status: 'inprogress'
     comment: |
-        Addressed with #24076
+        Being fixed via #24076, may have to whitelist later as the rc1 match might still trigger.
 -
     name: php
     version: '5.5.35'

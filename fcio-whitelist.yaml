@@ -152,9 +152,8 @@
     version: '2.21'
     cve:
         - CVE-2014-7817
-    status: 'inprogress'
     comment: |
-        Addressed via #23875
+        This was fixed in 2.21 but the CVE is broken and wasn't updated.
 -
     name: glibc
     version: '2.21'

@@ -369,6 +369,13 @@
     comment: |
         Patch backported to Nix expression
 -
+    name: lynx
+    version: '2.8.8'
+    cve:
+        - CVE-2010-2810
+    comment: |
+        Addressed with Re #28222
+-
     name: mariadb
     version: '10.0.22'
     cve:

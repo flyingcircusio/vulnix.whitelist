@@ -541,6 +541,15 @@
     comment: |
         Addressed with #27731
 -
+    name: pcre2
+    version: '10.23'
+    cve:
+        - CVE-2017-8786
+        - CVE-2017-7186
+    status: 'inprogress'
+    comment: |
+        Address with #28595
+-
     name: perl
     version: '5.20.2'
     cve:

@@ -592,6 +592,20 @@
     comment: |
         Addressed with #24077
 -
+    name: php
+    version: '5.6.30'
+    cve:
+        - CVE-2017-11142
+        - CVE-2017-11143
+        - CVE-2017-11144
+        - CVE-2017-11145
+        - CVE-2017-11628
+        - CVE-2017-12933
+        - CVE-2017-7890
+    status: 'inprogress'
+    comment: |
+        Addressed with #28594
+-
     name: postgresql
     version: '9.4.6'
     cve:

@@ -385,6 +385,20 @@
     comment: |
         Addressed via #23929. Waiting for upstream fixes.
 -
+    name: libxml2
+    version: '2.9.4'
+    cve:
+        - CVE-2017-5969
+        - CVE-2017-8872
+        - CVE-2016-5131
+        - CVE-2017-9050
+        - CVE-2017-9048
+        - CVE-2017-9047
+        - CVE-2017-9049
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #28608
+-
     name: libxslt
     version: '1.1.28'
     cve:

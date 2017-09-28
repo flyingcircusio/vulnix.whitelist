@@ -715,6 +715,14 @@
     comment: |
         Addressed with #24083
 -
+    name: python
+    version: '2.7.13'
+    cve:
+        - CVE-2014-4616
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #28607
+-
     name: redis
     version: '3.0.2'
     cve:

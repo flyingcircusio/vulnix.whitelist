@@ -561,6 +561,14 @@
     comment: |
         Patch backported to running version
 -
+    name: openldap
+    version: '2.4.45'
+    cve:
+        - CVE-2017-14159
+    status: 'inprogress'
+    comment: |
+        Addressed via Re #28611
+-
     name: openssl
     version: '1.0.2j'
     status: 'inprogress'

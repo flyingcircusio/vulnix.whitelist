@@ -633,6 +633,14 @@
     comment: |
         Being fixed via #24076, may have to whitelist later as the rc1 match might still trigger.
 -
+    name: perl
+    version: '5.24.2'
+    cve:
+        - CVE-2017-12883
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #28610
+-
     name: php
     version: '5.5.35'
     cve:

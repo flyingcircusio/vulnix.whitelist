@@ -539,18 +539,12 @@
     name: openexr
     version: '2.2.0'
     cve:
-        - CVE-2017-9113
         - CVE-2017-9110
-        - CVE-2017-9110
-        - CVE-2017-9112
-        - CVE-2017-9116
-        - CVE-2017-9116
-        - CVE-2017-9112
         - CVE-2017-9111
-        - CVE-2017-9111
+        - CVE-2017-9112
         - CVE-2017-9113
         - CVE-2017-9114
-        - CVE-2017-9114
+        - CVE-2017-9116
     comment: |
         Addressed via Re #27184. Still waiting for upstream fixes.
 -

@@ -63,6 +63,15 @@
         - CVE-2016-1567
     status: 'inprogress'
 -
+    name: clamav
+    version: '0.99.2'
+    cve:
+        - CVE-2017-6420
+        - CVE-2017-6418
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #28625
+-
     name: collectd
     version: '5.4.2'
     cve:

@@ -444,7 +444,7 @@
     cve:
         - CVE-2010-2810
     comment: |
-        Addressed with Re #28222
+        Incorrect match. Already fixed in released version.
 -
     name: mariadb
     version: '10.0.22'

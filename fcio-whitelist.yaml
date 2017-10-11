@@ -173,17 +173,10 @@
         - CVE-2016-1234
         - CVE-2016-3075
         - CVE-2016-3706
-    comment: |
-        Patches applied via Nix expression
--
-    name: glibc
-    version: '2.21'
-    cve:
         - CVE-2015-8983
         - CVE-2015-8984
-    status: 'inprogress'
     comment: |
-        Addressed with Re #28604
+        Patches applied via Nix expression
 -
     name: glibc
     version: '2.25'

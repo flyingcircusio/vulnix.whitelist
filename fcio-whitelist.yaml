@@ -803,6 +803,14 @@
     comment: |
         Addressed with #24095
 -
+    name: sqlite
+    version: '3.20.0'
+    cve:
+        - CVE-2017-13685
+    status: 'inprogress'
+    comment: |
+        Addressed with #28728
+-
     name: subversion
     version: '1.8.15'
     cve:

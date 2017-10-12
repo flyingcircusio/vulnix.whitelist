@@ -550,6 +550,7 @@
         - CVE-2017-9115
         - CVE-2017-9116
         - CVE-2017-12596
+        - CVE-2017-14988
     comment: |
         Addressed via Re #27184. Still waiting for upstream fixes.
 -

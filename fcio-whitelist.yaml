@@ -146,6 +146,7 @@
         - CVE-2013-2645
         - CVE-2014-8656
         - CVE-2014-8653
+        - CVE-2001-0888
     comment: |
         Not applying to our systems
 -

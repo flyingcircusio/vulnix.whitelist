@@ -760,6 +760,15 @@
     comment: |
         Addressed with Re #28607
 -
+    name: rabbitmq
+    cve:
+        - CVE-2017-4965
+        - CVE-2017-4966
+        - CVE-2017-4967
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #28725
+-
     name: redis
     version: '3.0.2'
     cve:

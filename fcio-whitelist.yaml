@@ -158,6 +158,14 @@
     comment: |
         Addressed via #23873
 -
+    name: git
+    version: '2.14.1'
+    cve:
+        - CVE-2017-14867
+    status: 'inprogress'
+    comment: |
+        Addressed with #28729
+-
     name: glibc
     version: '2.21'
     cve:

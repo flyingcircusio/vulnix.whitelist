@@ -101,6 +101,13 @@
     comment: |
         Addressed with Re #27729
 -
+    name: curl
+    cve:
+        - CVE-2017-1000101
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #27729
+-
     name: cyrus-sasl
     version: '2.1.26'
     cve:

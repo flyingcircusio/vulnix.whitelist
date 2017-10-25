@@ -56,12 +56,6 @@
     comment: |
         CVE is regarded as of having low impact by Redhat https://bugzilla.redhat.com/show_bug.cgi?id=1319648
 -
-    name: chrony
-    version: '2.1.1'
-    cve:
-        - CVE-2016-1567
-    status: 'inprogress'
--
     name: clamav
     version: '0.99.2'
     cve:

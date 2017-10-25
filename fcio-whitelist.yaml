@@ -27,7 +27,6 @@
         Addressed via #26909, waiting for upstream patches that are still being reviewed.
 -
     name: bundler
-    version: '1.10.5'
     cve:
         - CVE-2016-7954
     comment: |

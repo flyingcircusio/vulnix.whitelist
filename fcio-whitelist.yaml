@@ -374,6 +374,15 @@
     comment: |
         Addressed via #23926
 -
+-
+    name: libtasn1
+    version: '4.12'
+    cve:
+        - CVE-2017-10790
+    status: 'inprogress'
+    comment: |
+        Addressed via Re #28885
+-
     name: libunwind
     version: '1.1'
     cve:

@@ -632,6 +632,14 @@
     comment: |
         Addressed with #27731
 -
+    name: pcre
+    version: '8.41'
+    cve:
+        - CVE-2017-11164
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #28884
+-
     name: pcre2
     version: '10.23'
     cve:

@@ -658,6 +658,14 @@
     comment: |
         Address with #28595
 -
+    name: pcre2
+    version: '10.30'
+    cve:
+        - CVE-2017-8399
+    status: 'inprogress'
+    comment: |
+        Address with #29027
+-
     name: perl
     version: '5.20.2'
     cve:

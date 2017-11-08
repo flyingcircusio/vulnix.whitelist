@@ -819,6 +819,14 @@
     comment: |
         Addressed with #26900
 -
+    name: rubygems
+    version: '2.4.8'
+    cve:
+        - CVE-2017-0903
+    status: 'inprogress'
+    comment: |
+        Addressed with #29026
+-
     name: shadow
     version: '4.2.1'
     cve:

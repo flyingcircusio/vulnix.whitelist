@@ -811,15 +811,6 @@
         Addressed with #24084
 -
     name: rubygems
-    version: '2.4.1'
-    cve:
-        - CVE-2015-3900
-        - CVE-2015-4020
-    status: 'inprogress'
-    comment: |
-        Addressed with #26900
--
-    name: rubygems
     version: '2.4.8'
     cve:
         - CVE-2017-0903

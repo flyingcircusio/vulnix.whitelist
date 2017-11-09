@@ -204,6 +204,14 @@
     comment: |
         Addressed via #27733
 -
+    name: go
+    version: '1.4.2'
+    cve:
+        - CVE-2015-5739
+        - CVE-2015-5740
+    comment: |
+        Addressed with #29035
+-
     name: gstreamer
     version: '0.10.36'
     cve:

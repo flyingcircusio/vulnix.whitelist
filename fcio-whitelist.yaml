@@ -904,14 +904,6 @@
     comment: |
         Patches applied without upstream minor release
 -
-    name: varnish
-    version: '4.0.3'
-    cve:
-        - CVE-2017-12425
-    status: 'inprogress'
-    comment: |
-        Addressed via Re #28593
--
     name: zlib
     version: '1.2.8'
     cve:

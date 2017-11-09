@@ -876,6 +876,14 @@
     comment: |
        Addressed with #29025
 -
+    name: systemd
+    version: '234'
+    status: 'inprogress'
+    cve:
+        - CVE-2017-15908
+    comment: |
+        Addressed with #29036
+-
     name: unzip
     version: '6.0'
     cve:

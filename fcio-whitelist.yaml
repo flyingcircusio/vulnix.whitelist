@@ -209,6 +209,7 @@
     cve:
         - CVE-2015-5739
         - CVE-2015-5740
+    status: 'inprogress'
     comment: |
         Addressed with #29035
 -

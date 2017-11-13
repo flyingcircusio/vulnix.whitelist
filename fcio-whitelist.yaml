@@ -878,11 +878,10 @@
 -
     name: systemd
     version: '234'
-    status: 'inprogress'
     cve:
         - CVE-2017-15908
     comment: |
-        Addressed with #29036
+        Addressed with #29036. Not using systemd-resolved and updating is _very_ non-trivial. Will be updated with NixOS.
 -
     name: unzip
     version: '6.0'

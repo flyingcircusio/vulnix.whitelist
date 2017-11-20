@@ -827,6 +827,14 @@
     comment: |
         Addressed with #24084
 -
+    name: rsync
+    version: '3.1.2'
+    cve:
+        - CVE-2017-15994
+    status: 'inprogress'
+    comment: |
+        Addressed with #29124
+-
     name: rubygems
     version: '2.4.8'
     cve:

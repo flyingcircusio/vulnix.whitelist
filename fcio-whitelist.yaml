@@ -150,6 +150,14 @@
     comment: |
         Not applying to our systems
 -
+    name: freetype
+    version: "2.7.1"
+    cve:
+        - CVE-2017-8105
+    status: 'inprogress'
+    comment: |
+        Addressed with 29163
+-
     name: gcc
     version: '4.9.3'
     cve:

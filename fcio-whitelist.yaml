@@ -416,6 +416,14 @@
     comment: |
         Addressed via #23893
 -
+    name: libjpeg-turbo
+    version: '1.5.2'
+    cve:
+        - CVE-2017-15232
+    status: 'inprogress'
+    comment: |
+        Addressed via #29166
+-
     name: libsndfile
     version: '1.0.25'
     cve:

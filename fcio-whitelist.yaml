@@ -362,6 +362,16 @@
     comment: |
         Addressed via #23878
 -
+    name: jbig2dec
+    version: '0.13'
+    cve:
+        - CVE-2017-7976
+        - CVE-2017-7975
+        - CVE-2017-7885
+    status: 'inprogress'
+    comment: |
+        Addressed with Re #29167
+-
     name: libarchive
     version: '3.1.2'
     cve:

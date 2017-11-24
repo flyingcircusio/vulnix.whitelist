@@ -65,12 +65,6 @@
     comment: |
         Addressed with Re #28625
 -
-    name: collectd
-    version: '5.4.2'
-    cve:
-        - CVE-2016-6254
-    status: 'inprogress'
--
     name: cpio
     version: '2.11'
     cve:

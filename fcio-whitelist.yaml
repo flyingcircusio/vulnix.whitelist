@@ -166,6 +166,14 @@
     comment: |
         Addressed via #23873
 -
+    name: ghostscript
+    version: '9.20'
+    status: 'inprogress'
+    cve:
+        - CVE-2017-5951
+    comment: |
+        Addressed with 29164
+-
     name: git
     version: '2.14.1'
     cve:

@@ -678,15 +678,6 @@
         Addressed via Re #28611
 -
     name: openssl
-    version: '1.0.2j'
-    status: 'inprogress'
-    cve:
-        - CVE-2017-3731
-        - CVE-2017-3731
-    comment: |
-        Addressed with #27036
--
-    name: openssl
     version: '1.0.2l'
     status: 'inprogress'
     cve:

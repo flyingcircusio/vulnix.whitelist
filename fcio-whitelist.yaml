@@ -823,17 +823,6 @@
     comment: |
         Addressed with #28594
 -
-    name: postgresql
-    version: '9.6.1'
-    cve:
-        - CVE-2017-7484
-        - CVE-2017-7485
-        - CVE-2017-7484
-        - CVE-2017-7485
-    status: 'inprogress'
-    comment: |
-        Addressed with Re #27186
--
     name: python
     version: '2.7.11'
     cve:

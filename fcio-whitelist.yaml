@@ -834,15 +834,6 @@
     comment: |
         Addressed with Re #27186
 -
-    name: postgresql
-    cve:
-        - CVE-2017-12172
-        - CVE-2017-15098
-        - CVE-2017-15099
-    status: 'inprogress'
-    comment: |
-        Addressed via Re #29123
--
     name: python
     version: '2.7.11'
     cve:

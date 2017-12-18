@@ -773,17 +773,6 @@
     comment: |
         Addressed with Re #28610
 -
-    name: php
-    version: '5.5.35'
-    cve:
-        - CVE-2016-5095
-        - CVE-2014-0236
-        - CVE-2016-5096
-        - CVE-2016-5093
-    status: 'inprogress'
-    comment: |
-        Addressed with #24077
--
     name: python
     version: '2.7.11'
     cve:

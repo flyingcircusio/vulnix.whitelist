@@ -824,15 +824,6 @@
         Addressed with #28594
 -
     name: postgresql
-    version: '9.4.6'
-    cve:
-        - CVE-2016-5424
-        - CVE-2016-5423
-    status: 'inprogress'
-    comment: |
-        Addressed with Re #27058
--
-    name: postgresql
     version: '9.4.12'
     cve:
         - CVE-2017-7486

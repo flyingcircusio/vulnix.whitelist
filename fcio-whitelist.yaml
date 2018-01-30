@@ -380,13 +380,19 @@
     name: libarchive
     version: '3.3.2'
     cve:
-        - CVE-2017-14166
         - CVE-2017-14501
-        - CVE-2017-14502
         - CVE-2017-14503
     status: 'inprogress'
     comment: |
-        Addressed via #28596
+        Addressed via #28596, waiting for upstream fixes.
+-
+    name: libarchive
+    version: '3.3.2'
+    cve:
+        - CVE-2017-14166
+        - CVE-2017-14502
+    comment: |
+        Addressed via #28596, fixed through derivation.
 -
     name: libgcrypt
     version: '1.6.4'

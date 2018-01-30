@@ -142,9 +142,9 @@
     version: "2.7.1"
     cve:
         - CVE-2017-8105
-    status: 'inprogress'
+        - CVE-2017-8287
     comment: |
-        Addressed with 29163
+        Patched in derivation.
 -
     name: gcc
     version: '4.9.3'
@@ -366,7 +366,7 @@
         - CVE-2013-0211
         - CVE-2015-1197
     comment: |
-        Patched inside Nix derication.
+        Patched inside Nix derivation.
 
 -
     name: libarchive

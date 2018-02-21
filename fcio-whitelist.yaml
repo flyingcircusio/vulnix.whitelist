@@ -889,6 +889,16 @@
     comment: |
         Patches applied without upstream minor release
 -
+    name: w3m
+    version: '0.5.3'
+    cve:
+        - CVE-2018-6197
+        - CVE-2018-6196
+        - CVE-2018-6198
+    status: 'inprogress'
+    comment: |
+        Addressed with Case #100294
+-
     name: zlib
     version: '1.2.8'
     cve:

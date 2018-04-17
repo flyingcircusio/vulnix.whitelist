@@ -5,3 +5,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101092/"
 ["zlib-1.2.8"]
 cve = [ "CVE-2016-9840", "CVE-2016-9842", "CVE-2016-9840", "CVE-2016-9842" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/27182/"
+
+["spice-0.12.5"]
+cve = [ "CVE-2017-7506" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/101098/"

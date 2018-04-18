@@ -1,3 +1,7 @@
+["python-2.7.14"]
+cve = "CVE-2018-1000030"
+comment = "classified non-critical by Python devs"
+
 ["bazaar-2.7.0"]
 cve = [ "CVE-2017-14176" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101135/"
@@ -28,4 +32,3 @@ issue_url = "https://fb.flyingcircus.io/f/cases/100294/"
 ["zlib-1.2.8"]
 cve = [ "CVE-2016-9840", "CVE-2016-9842", "CVE-2016-9840", "CVE-2016-9842" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/27182/"
-

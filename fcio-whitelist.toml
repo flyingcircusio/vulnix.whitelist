@@ -27,6 +27,13 @@ cve = [ "CVE-2016-7947",
         "CVE-2016-7948"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101149/"
 
+["openldap-2.4.45"]
+cve = [
+	"CVE-2017-17740",
+	"CVE-2017-14159"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/101152/"
+
 ["protobuf 2.6.1"]
 cve = [ "CVE-2015-5237" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101115/"

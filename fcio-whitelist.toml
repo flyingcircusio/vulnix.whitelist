@@ -8,7 +8,11 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101135/"
 
 ["libtiff-4.0.9"]
 cve = [ "CVE-2017-18013", "CVE-2017-17095", "CVE-2018-7456", "CVE-2018-8905", "CVE-2018-5784", "CVE-2017-17942" ]
-issue_url ="https://fb.flyingcircus.io/f/cases/101123/"
+issue_url = "https://fb.flyingcircus.io/f/cases/101123/"
+
+["libxcursor-1.1.14"]
+cve = [ "CVE-2017-16612" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/101148/"
 
 ["protobuf 2.6.1"]
 cve = [ "CVE-2015-5237" ]

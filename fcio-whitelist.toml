@@ -14,6 +14,11 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101123/"
 cve = [ "CVE-2017-16612" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101148/"
 
+["libxrandr-1.5.0"]
+cve = [ "CVE-2016-7947",
+        "CVE-2016-7948"]
+issue_url = "https://fb.flyingcircus.io/f/cases/101149/"
+
 ["protobuf 2.6.1"]
 cve = [ "CVE-2015-5237" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101115/"

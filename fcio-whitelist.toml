@@ -31,6 +31,10 @@ cve = [ "CVE-2016-7947",
         "CVE-2016-7948"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101149/"
 
+["libXv-1.0.10"]
+cve = [ "CVE-2016-5407" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/101279/"
+
 ["openldap-2.4.45"]
 cve = [
     "CVE-2017-17740",

@@ -46,6 +46,10 @@ cve = [
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101152/"
 
+["openssl-1.0.2n"]
+cve = [ "CVE-2018-0739" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/101281/"
+
 ["protobuf 2.6.1"]
 cve = [ "CVE-2015-5237" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101115/"

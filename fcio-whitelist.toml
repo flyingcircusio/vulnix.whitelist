@@ -35,7 +35,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101149/"
 cve = [
     "CVE-2016-7950",
     "CVE-2016-7949"]
-issue_url = https://fb.flyingcircus.io/f/cases/101292/
+issue_url = "https://fb.flyingcircus.io/f/cases/101292/"
 
 ["libXv-1.0.10"]
 cve = [ "CVE-2016-5407" ]

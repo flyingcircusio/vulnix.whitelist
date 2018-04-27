@@ -31,6 +31,12 @@ cve = [ "CVE-2016-7947",
         "CVE-2016-7948"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101149/"
 
+["libXrender-0.9.9"]
+cve = [
+    "CVE-2016-7950",
+    "CVE-2016-7949"]
+issue_url = https://fb.flyingcircus.io/f/cases/101292/
+
 ["libXv-1.0.10"]
 cve = [ "CVE-2016-5407" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101279/"

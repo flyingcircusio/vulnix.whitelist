@@ -56,7 +56,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101152/"
 cve = [ "CVE-2018-0739" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101281/"
 
-["protobuf 2.6.1"]
+["protobuf-2.6.1"]
 cve = [ "CVE-2015-5237" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101115/"
 
@@ -72,7 +72,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101092/"
 cve = [ "CVE-2018-7169" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101090/"
 
-[ "sharutils 4.15.2" ]
+[ "sharutils-4.15.2" ]
 cve = [ "CVE-2018-1000097" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101089/"
 

@@ -124,20 +124,6 @@
         This was fixed in 2.21 but the CVE is broken and wasn't updated.
 -
     name: glibc
-    version: '2.21'
-    cve:
-        - CVE-2014-8121
-        - CVE-2015-1781
-        - CVE-2015-7547
-        - CVE-2016-1234
-        - CVE-2016-3075
-        - CVE-2016-3706
-        - CVE-2015-8983
-        - CVE-2015-8984
-    comment: |
-        Patches applied via Nix expression
--
-    name: glibc
     version: '2.25'
     cve:
         - CVE-2016-10228

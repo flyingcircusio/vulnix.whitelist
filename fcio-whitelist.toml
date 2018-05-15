@@ -1,7 +1,7 @@
 ["access"]
 cve = [
-    "CVE-2017-6399"
-    "CVE-2017-6406"
+    "CVE-2017-6399",
+    "CVE-2017-6406",
     "CVE-2017-6400"
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/28741/"

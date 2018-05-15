@@ -1,37 +1,4 @@
 -
-    name: access
-    cve:
-        - CVE-2017-6399
-        - CVE-2017-6406
-        - CVE-2017-6400
-    comment: |
-        CVE applies only to Veritas NetBackup and NetBackup Appliance
--
-    name: audiofile
-    version: '0.3.6'
-    cve:
-        - CVE-2017-6827
-        - CVE-2017-6834
-        - CVE-2017-6828
-        - CVE-2017-6833
-        - CVE-2017-6832
-        - CVE-2017-6837
-        - CVE-2017-6829
-        - CVE-2017-6835
-        - CVE-2017-6830
-        - CVE-2017-6836
-        - CVE-2017-6838
-        - CVE-2017-6839
-        - CVE-2017-6831
-    comment: |
-        Addressed via #26909, waiting for upstream patches that are still being reviewed.
--
-    name: bundler
-    cve:
-        - CVE-2016-7954
-    comment: |
-        This is a usability issue that won't be fixed in bundler 1. The bundler developers declared this fixed for 1 by providing a blogpost: http://bundler.io/blog/2014/08/14/bundler-may-install-gems-from-a-different-source-than-expected-cve-2013-0334.html
--
     name: busybox
     cve:
         - CVE-2016-2148
@@ -55,15 +22,6 @@
         - CVE-2016-3189
     comment: |
         CVE is regarded as of having low impact by Redhat https://bugzilla.redhat.com/show_bug.cgi?id=1319648
--
-    name: clamav
-    version: '0.99.2'
-    cve:
-        - CVE-2017-6420
-        - CVE-2017-6418
-    status: 'inprogress'
-    comment: |
-        Addressed with Re #28625
 -
     name: cpio
     version: '2.11'
@@ -97,13 +55,6 @@
         Linked Patch is part of commulativ patchset applied via Nix
         expression.
 -
-    name: dnsmasq
-    version: '1.75'
-    cve:
-        - CVE-2015-8899
-
-    status: 'inprogress'
--
     name: dosfstools
     version: '3.0.28'
     cve:
@@ -111,19 +62,6 @@
         - CVE-2016-4804
     comment: |
         We usually don't deal with FAT filesystemes. Re #23867
--
-    name: expat
-    version: '2.1.0'
-    cve:
-        - CVE-2015-1283
-    comment: |
-        Patch for CVE applied
--
-    name: expat
-    version: '2.1.0'
-    cve:
-        - CVE-2013-0340
-    status: 'inprogress'
 -
     name: firmware
     cve:

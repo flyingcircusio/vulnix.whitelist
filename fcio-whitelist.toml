@@ -26,7 +26,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101151/"
 
 ["cyrus_sasl-2.1.26"]
 cve = ["CVE-2013-4122"]
-issue = "https://fb.flyingcircus.io/f/cases/26967/"
+issue_url = "https://fb.flyingcircus.io/f/cases/26967/"
 comment = "rejected"
 
 ["glibc-2.21"]

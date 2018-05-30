@@ -29,6 +29,13 @@ cve = ["CVE-2013-4122"]
 issue_url = "https://fb.flyingcircus.io/f/cases/26967/"
 comment = "rejected"
 
+["git"]
+cve = [
+    "CVE-2018-11233",
+    "CVE-2018-11235"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/101837/"
+
 ["glibc-2.21"]
 cve = [
     "CVE-2014-8121",

@@ -406,17 +406,6 @@
     comment: |
         Already fixed through upstream patch.
 -
-    name: libvorbis
-    version: '1.3.5'
-    cve:
-        - CVE-2017-11735
-        - CVE-2017-11735
-        - CVE-2017-11333
-        - CVE-2017-11333
-    status: 'inprogress'
-    comment: |
-        Addressed via #28022
--
     name: libxml2
     version: '2.9.3'
     cve:

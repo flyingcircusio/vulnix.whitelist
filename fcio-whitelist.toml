@@ -38,26 +38,19 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101837/"
 
 ["glibc-2.21"]
 cve = [
+    "CVE-2014-7817",
     "CVE-2014-8121",
     "CVE-2015-1781",
     "CVE-2015-7547",
+    "CVE-2015-8983",
+    "CVE-2015-8984",
     "CVE-2016-1234",
     "CVE-2016-3075",
     "CVE-2016-3706",
-    "CVE-2015-8983",
-    "CVE-2015-8984"
+    "CVE-2017-16997",
 ]
-comment = "Patched in expression"
-
-["glibc-2.21"]
-cve = [
-    "CVE-2015-8983",
-    "CVE-2017-16997"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101913/"
-
-["glibc-2.21"]
-cve = [ "CVE-2014-7817" ]
-comment = "Was fixed in 2.21 but CVE not updated"
+comment = "CVE-2014-7817 fixed in 2.21 but CVE not updated"
 
 ["libarchive-3.3.2"]
 cve = [ "CVE-2017-14501",

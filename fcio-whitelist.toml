@@ -124,6 +124,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101279/"
 cve = [ "CVE-2016-7953" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101280/"
 
+["mongodb-3.2.12"]
+cve = ["CVE-2016-6494"]
+issue_url = "https://fb.flyingcircus.io/f/cases/101998/"
+
 ["openldap-2.4.45"]
 cve = [
     "CVE-2017-17740",

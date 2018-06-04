@@ -128,6 +128,17 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101280/"
 cve = ["CVE-2016-6494"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101998/"
 
+["openjpeg-2.3.0"]
+cve = [
+    "CVE-2017-17479",
+    "CVE-2017-17480",
+    "CVE-2018-5727",
+    "CVE-2018-5785",
+    "CVE-2018-6616",
+    "CVE-2018-7648"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/101999/"
+
 ["openldap-2.4.45"]
 cve = [
     "CVE-2017-17740",

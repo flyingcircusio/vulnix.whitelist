@@ -110,6 +110,12 @@ cve = [
     "CVE-2016-7949"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101292/"
 
+["libXtst-1.2.2"]
+cve = [
+    "CVE-2016-7951",
+    "CVE-2016-7952"]
+issue_url = "https://fb.flyingcircus.io/f/cases/101997/"
+
 ["libXv-1.0.10"]
 cve = [ "CVE-2016-5407" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101279/"

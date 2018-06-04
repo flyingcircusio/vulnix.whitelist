@@ -188,3 +188,12 @@ issue_url = "https://fb.flyingcircus.io/f/cases/100294/"
 ["zlib-1.2.8"]
 cve = [ "CVE-2016-9840", "CVE-2016-9842", "CVE-2016-9840", "CVE-2016-9842" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/27182/"
+
+["zziplib-0.13.68"]
+cve = [
+    "CVE-2018-6869",
+    "CVE-2018-7725",
+    "CVE-2018-7726",
+    "CVE-2018-7727"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/102000/"

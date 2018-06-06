@@ -134,6 +134,20 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101280/"
 cve = ["CVE-2016-6494"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101998/"
 
+["mysql-5.5.59"]
+cve = [
+    "CVE-2018-2781",
+    "CVE-2018-2818",
+    "CVE-2018-2817",
+    "CVE-2018-2819",
+    "CVE-2018-2755",
+    "CVE-2018-2773",
+    "CVE-2018-2761",
+    "CVE-2018-2813",
+    "CVE-2018-2771"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/102040/"
+
 ["openjpeg-2.3.0"]
 cve = [
     "CVE-2017-17479",

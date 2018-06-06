@@ -36,6 +36,12 @@ cve = ["CVE-2013-4122"]
 issue_url = "https://fb.flyingcircus.io/f/cases/26967/"
 comment = "rejected"
 
+["dovecot-2.1.17"]
+cve = [
+    "CVE-2017-15132",
+    "CVE-2017-15130"]
+issue_url = "https://fb.flyingcircus.io/f/cases/102039/"
+
 ["git"]
 cve = [
     "CVE-2018-11233",

@@ -65,6 +65,7 @@ cve = [
     "CVE-2016-3075",
     "CVE-2016-3706",
     "CVE-2017-16997",
+    "CVE-2017-18269"
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101913/"
 comment = "CVE-2014-7817 fixed in 2.21 but CVE not updated"

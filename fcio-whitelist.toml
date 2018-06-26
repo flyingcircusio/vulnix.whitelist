@@ -74,6 +74,10 @@ comment = "CVE-2014-7817 fixed in 2.21 but CVE not updated"
 cve = ["CVE-2017-14229", "CVE-2017-14132"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101993/"
 
+["kibana-4.6.5"]
+cve = ["CVE-2018-3819"]
+issue_url = "https://fb.flyingcircus.io/f/cases/103301/"
+
 ["libarchive-3.3.2"]
 cve = [ "CVE-2017-14501",
         "CVE-2017-14503"

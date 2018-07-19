@@ -170,7 +170,7 @@ cve = [
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/102040/"
 
-["nghttp2-1.20.0"]
+["nghttp2"]
 cve = ["CVE-2018-1000168"]
 issue_url = "https://fb.flyingcircus.io/f/cases/103149/"
 

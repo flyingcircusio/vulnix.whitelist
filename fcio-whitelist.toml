@@ -200,6 +200,14 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101281/"
 cve = [ "CVE-2017-12166" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/102038/"
 
+["patch-2.7.6"]
+cve = [
+    "CVE-2018-1000156",
+    "CVE-2018-6952",
+    "CVE-2018-6951"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/104710/"
+
 ["protobuf-2.6.1"]
 cve = [ "CVE-2015-5237" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101115/"

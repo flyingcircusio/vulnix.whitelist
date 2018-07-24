@@ -108,6 +108,11 @@ cve = [
 comment = "Upstream version contains patches against these CVEs"
 issue_url = "https://fb.flyingcircus.io/f/cases/101123/"
 
+["libtiff"]
+cve = ["CVE-2017-17942"]
+until = "2018-08-24"
+issue_url = "https://fb.flyingcircus.io/f/cases/104752/"
+
 ["libvorbis-1.3.6"]
 cve = [
     "CVE-2018-10393",

@@ -157,6 +157,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101279/"
 cve = [ "CVE-2016-7953" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101280/"
 
+["mariadb-10.0.32"]
+cve = ["CVE-2017-15365"]
+issue_url = "https://fb.flyingcircus.io/f/cases/104855/"
+
 ["mongodb-3.2.12"]
 cve = ["CVE-2016-6494"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101998/"

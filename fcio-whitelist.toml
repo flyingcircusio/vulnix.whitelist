@@ -93,6 +93,10 @@ cve = [ "CVE-2017-14501",
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/100429/"
 
+["libgcrypt"]
+cve = [ "CVE-2018-0495" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/105033/"
+
 ["libtiff-4.0.9"]
 cve = [
     "CVE-2017-11613",

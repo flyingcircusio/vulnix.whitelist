@@ -229,6 +229,11 @@ issue_url = "https://fb.flyingcircus.io/f/cases/104711/"
 cve = [ "CVE-2015-5237" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101115/"
 
+["python-2.7.14"]
+cve = [ "CVE-2018-1060",
+        "CVE-2018-1061" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/105034/"
+
 ["python"]
 cve = "CVE-2018-1000030"
 comment = "classified non-critical by Python devs"

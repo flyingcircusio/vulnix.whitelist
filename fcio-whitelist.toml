@@ -239,7 +239,10 @@ cve = "CVE-2018-1000030"
 comment = "classified non-critical by Python devs"
 
 ["redis-3.0.2"]
-cve = "CVE-2016-10517"
+cve = [ "CVE-2018-11218",
+        "CVE-2018-11219",
+        "CVE-2018-12453",
+        "CVE-2016-10517"]
 issue_url = "https://fb.flyingcircus.io/f/cases/105035/"
 
 ["rsync-3.1.3"]

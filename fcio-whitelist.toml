@@ -270,6 +270,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101089/"
 cve = [ "CVE-2017-7506" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101098/"
 
+["systemd-237"]
+cve = [ "CVE-2018-6954" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/105142/"
+
 ["vim-7.4.827"]
 cve = [ "CVE-2017-17087"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101782/"

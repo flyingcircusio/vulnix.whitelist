@@ -98,7 +98,8 @@ cve = [ "CVE-2018-0495" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/105033/"
 
 ["libsndfile-1.0.28"]
-cve = [ "CVE-2018-13139"]
+cve = [ "CVE-2018-13139",
+        "CVE-2018-13419"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101041/"
 
 ["libtiff-4.0.9"]

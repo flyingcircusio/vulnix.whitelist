@@ -256,6 +256,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101098/"
 cve = [ "CVE-2018-6954" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/105142/"
 
+["util-linux-2.31"]
+cve = [ "CVE-2017-2616" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/106545/"
+
 ["vim-7.4.827"]
 cve = [ "CVE-2017-17087"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101782/"

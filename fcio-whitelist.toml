@@ -97,6 +97,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/100429/"
 cve = [ "CVE-2018-0495" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/105033/"
 
+["libice-1.0.9"]
+cve = [ "CVE-2017-2626" ]
+issue_url = "https://fb.flyingcircus.io/f/cases/106544/"
+
 ["libsndfile-1.0.28"]
 cve = [ "CVE-2018-13139",
         "CVE-2018-13419"]

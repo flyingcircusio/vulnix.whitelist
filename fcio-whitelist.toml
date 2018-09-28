@@ -15,13 +15,6 @@ comment = "This is a usability issue that won't be fixed in bundler 1. The bundl
 cve = ["CVE-2015-9261"]
 issue_url = "https://fb.flyingcircus.io/f/cases/106543/"
 
-["clamav-0.99.3"]
-cve = [
-    "CVE-2018-0202",
-    "CVE-2018-1000085"
-]
-issue_url = "https://fb.flyingcircus.io/f/cases/101996/"
-
 ["coreutils-8.29"]
 cve = ["CVE-2017-18018"]
 issue_url = "https://fb.flyingcircus.io/f/cases/104708/"

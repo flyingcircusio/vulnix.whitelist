@@ -26,16 +26,6 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101996/"
 cve = ["CVE-2017-18018"]
 issue_url = "https://fb.flyingcircus.io/f/cases/104708/"
 
-["curl-7.56.0"]
-cve = [
-    "CVE-2018-1000120",
-    "CVE-2018-1000121",
-    "CVE-2018-1000122",
-    "CVE-2018-1000300",
-    "CVE-2018-1000301"
-]
-issue_url = "https://fb.flyingcircus.io/f/cases/101151/"
-
 ["cyrus_sasl-2.1.26"]
 cve = ["CVE-2013-4122"]
 issue_url = "https://fb.flyingcircus.io/f/cases/26967/"

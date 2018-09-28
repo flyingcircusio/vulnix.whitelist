@@ -1,15 +1,6 @@
 -
     name: busybox
     cve:
-        - CVE-2016-2148
-        - CVE-2016-2147
-        - CVE-2016-6301
-    status: 'inprogress'
-    comment: |
-        Addressed via #26962
--
-    name: busybox
-    cve:
         - CVE-2011-2716
         - CVE-2013-1813
         - CVE-2014-9645

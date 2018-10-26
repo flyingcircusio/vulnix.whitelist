@@ -415,30 +415,6 @@
     comment: |
         Addressed with Re #28608
 -
-    name: libxslt
-    version: '1.1.28'
-    cve:
-        - CVE-2015-7995
-    comment: |
-        Patch already backported to Nix expression
--
-    name: libxslt
-    version: '1.1.28'
-    cve:
-        - CVE-2016-1683
-        - CVE-2016-1684
-    status: 'inprogress'
-    comment: |
-        Addressed via #26902
--
-    name: libxslt
-    version: '1.1.29'
-    cve:
-        - CVE-2017-5029
-    status: 'inprogress'
-    comment: |
-        Addressed via Re #28609
--
     name: libyaml
     version: '0.1.6'
     cve:

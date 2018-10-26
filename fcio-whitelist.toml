@@ -120,7 +120,9 @@ cve = [ "CVE-2016-7942", "CVE-2016-7943"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101153/"
 
 ["libxcursor-1.1.14"]
-cve = [ "CVE-2017-16612" ]
+cve = [
+    "CVE-2017-16612",
+    "CVE-2015-9262" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101148/"
 
 ["libxpm-3.5.11"]

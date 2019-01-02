@@ -7,6 +7,31 @@ cve = [
 issue_url = "https://fb.flyingcircus.io/f/cases/28741/"
 comment = "CVE applies only to Veritas NetBackup and NetBackup Appliance"
 
+["binutils-2.30"]
+cve = [
+    "CVE-2018-10372",
+    "CVE-2018-10373",
+    "CVE-2018-10534",
+    "CVE-2018-10535",
+    "CVE-2018-12641",
+    "CVE-2018-12697",
+    "CVE-2018-12698",
+    "CVE-2018-12699",
+    "CVE-2018-12700",
+    "CVE-2018-12934",
+    "CVE-2018-13033",
+    "CVE-2018-6543",
+    "CVE-2018-6759",
+    "CVE-2018-6872",
+    "CVE-2018-7208",
+    "CVE-2018-7568",
+    "CVE-2018-7569",
+    "CVE-2018-7570",
+    "CVE-2018-7642",
+    "CVE-2018-7643"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/107621/"
+
 ["bundler"]
 cve = ["CVE-2016-7954"]
 comment = "This is a usability issue that won't be fixed in bundler 1. The bundler developers declared this fixed for 1 by providing a blogpost: http://bundler.io/blog/2014/08/14/bundler-may-install-gems-from-a-different-source-than-expected-cve-2013-0334.html"

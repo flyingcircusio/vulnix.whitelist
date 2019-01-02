@@ -65,6 +65,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/102039/"
 cve = ["CVE-2017-6888"]
 issue_url = "https://fb.flyingcircus.io/f/cases/103148/"
 
+["gettext 0.19.8"]
+cve = [" CVE-2018-18751"]
+issue_url = "https://fb.flyingcircus.io/f/cases/107624/"
+
 ["git"]
 cve = [
     "CVE-2018-11233",

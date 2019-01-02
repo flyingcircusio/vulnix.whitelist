@@ -128,8 +128,16 @@ cve = [ "CVE-2017-2626" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/106544/"
 
 ["libsndfile-1.0.28"]
-cve = [ "CVE-2018-13139",
-        "CVE-2018-13419"]
+cve = [
+        "CVE-2017-14246",
+        "CVE-2017-14245",
+        "CVE-2018-13139",
+        "CVE-2018-13419",
+        "CVE-2018-19432",
+        "CVE-2018-19661",
+        "CVE-2018-19662",
+        "CVE-2018-19758"
+]
 issue_url = "https://fb.flyingcircus.io/f/cases/101041/"
 
 ["libtiff-4.0.9"]

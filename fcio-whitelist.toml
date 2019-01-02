@@ -49,6 +49,12 @@ cve = ["CVE-2013-4122"]
 issue_url = "https://fb.flyingcircus.io/f/cases/26967/"
 comment = "rejected"
 
+["cups-2.0.4"]
+cve= ["CVE-2017-18190",
+      "CVE-2017-18248"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/107622/"
+
 ["dovecot-2.1.17"]
 cve = [
     "CVE-2017-15132",

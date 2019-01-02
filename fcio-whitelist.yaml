@@ -327,14 +327,6 @@
     comment: |
         Addressed via #29166
 -
-    name: libsndfile
-    version: '1.0.25'
-    cve:
-        - CVE-2015-7805
-    status: 'inprogress'
-    comment: |
-        Addressed via #23894
--
     name: libtiff
     version: '4.0.8'
     status: 'inprogress'

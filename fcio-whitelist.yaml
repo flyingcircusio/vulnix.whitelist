@@ -335,22 +335,6 @@
     comment: |
         Addressed via #23894
 -
-    name: libtasn1
-    version: '4.7'
-    cve:
-        - CVE-2016-4008
-    status: 'inprogress'
-    comment: |
-        Addressed via #23926
--
-    name: libtasn1
-    version: '4.12'
-    cve:
-        - CVE-2017-10790
-    status: 'inprogress'
-    comment: |
-        Addressed via Re #28885
--
     name: libtiff
     version: '4.0.8'
     status: 'inprogress'

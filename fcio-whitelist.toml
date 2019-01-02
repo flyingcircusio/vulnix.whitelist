@@ -140,6 +140,10 @@ cve = [
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101041/"
 
+["libtasn1-4.13"]
+cve = ["CVE-2018-1000654"]
+issue_url = "https://fb.flyingcircus.io/f/cases/107629/"
+
 ["libtiff-4.0.9"]
 cve = [
     "CVE-2017-11613",

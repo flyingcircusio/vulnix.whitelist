@@ -37,7 +37,9 @@ cve = ["CVE-2016-7954"]
 comment = "This is a usability issue that won't be fixed in bundler 1. The bundler developers declared this fixed for 1 by providing a blogpost: http://bundler.io/blog/2014/08/14/bundler-may-install-gems-from-a-different-source-than-expected-cve-2013-0334.html"
 
 ["busybox-1.26.2"]
-cve = ["CVE-2015-9261"]
+cve = [
+    "CVE-2015-9261",
+    "CVE-2018-20679"]
 issue_url = "https://fb.flyingcircus.io/f/cases/106543/"
 
 ["coreutils-8.29"]

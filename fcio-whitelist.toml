@@ -44,16 +44,16 @@ issue_url = "https://fb.flyingcircus.io/f/cases/106543/"
 cve = ["CVE-2017-18018"]
 issue_url = "https://fb.flyingcircus.io/f/cases/104708/"
 
-["cyrus_sasl-2.1.26"]
-cve = ["CVE-2013-4122"]
-issue_url = "https://fb.flyingcircus.io/f/cases/26967/"
-comment = "rejected"
-
 ["cups-2.0.4"]
 cve= ["CVE-2017-18190",
       "CVE-2017-18248"
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/107622/"
+
+["cyrus_sasl-2.1.26"]
+cve = ["CVE-2013-4122"]
+issue_url = "https://fb.flyingcircus.io/f/cases/26967/"
+comment = "rejected"
 
 ["dovecot-2.1.17"]
 cve = [

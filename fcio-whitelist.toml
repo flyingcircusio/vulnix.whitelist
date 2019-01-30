@@ -150,8 +150,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/106544/"
 
 ["libsndfile-1.0.28"]
 cve = [
+        "CVE-2017-12562",
         "CVE-2017-14246",
         "CVE-2017-14245",
+        "CVE-2017-14634",
         "CVE-2018-13139",
         "CVE-2018-13419",
         "CVE-2018-19432",

@@ -269,11 +269,7 @@ cve = [
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/102040/"
 
-["ncurses-5.9"]
-cve = ["CVE-2018-10754"]
-issue_url = "https://fb.flyingcircus.io/f/cases/107423/"
-
-["ncurses-6.1"]
+["ncurses"]
 cve = ["CVE-2018-10754"]
 issue_url = "https://fb.flyingcircus.io/f/cases/107423/"
 

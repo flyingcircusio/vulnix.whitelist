@@ -372,6 +372,14 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101098/"
 cve = [ "CVE-2018-6954" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/105142/"
 
+["systemd-239"]
+cve = [
+    "CVE-2018-15686",
+    "CVE-2018-15687",
+    "CVE-2018-15688"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108304/"
+
 ["util-linux-2.31"]
 cve = [ "CVE-2017-2616" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/106545/"

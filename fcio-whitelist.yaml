@@ -327,22 +327,6 @@
     comment: |
         Addressed via #29166
 -
-    name: libtiff
-    version: '4.0.8'
-    status: 'inprogress'
-    cve:
-        - CVE-2017-10688
-        - CVE-2017-11335
-        - CVE-2017-11613
-        - CVE-2017-12944
-        - CVE-2017-13726
-        - CVE-2017-13727
-        - CVE-2017-9935
-        - CVE-2017-9936
-        - CVE-2017-9937
-    comment: |
-        Addressed via Re #29169
--
     name: libunwind
     version: '1.1'
     cve:

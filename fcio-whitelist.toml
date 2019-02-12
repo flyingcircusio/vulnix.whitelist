@@ -353,7 +353,8 @@ comment = "classified non-critical by Python devs"
 cve = [ "CVE-2018-11218",
         "CVE-2018-11219",
         "CVE-2018-12453",
-        "CVE-2016-10517"]
+        "CVE-2016-10517",
+        "CVE-2018-12326"]
 issue_url = "https://fb.flyingcircus.io/f/cases/105035/"
 
 ["ruby-2.4.4"]

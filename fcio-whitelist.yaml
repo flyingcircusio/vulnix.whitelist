@@ -536,6 +536,7 @@
     cve:
         - CVE-2017-8786
         - CVE-2017-7186
+        - CVE-2017-8399
     status: 'inprogress'
     comment: |
         Address with #28595

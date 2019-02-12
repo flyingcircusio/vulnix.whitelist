@@ -484,15 +484,6 @@
     comment: |
         Addressed via Re #28611
 -
-    name: openssl
-    version: '1.0.2l'
-    status: 'inprogress'
-    cve:
-        - CVE-2017-3735
-        - CVE-2017-3736
-    comment: |
-        Addressed with #29247
--
     name: openvpn
     version: '2.3.7'
     status: 'inprogress'

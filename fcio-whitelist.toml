@@ -336,6 +336,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/104710/"
 cve = ["CVE-2018-1058"]
 issue_url = "https://fb.flyingcircus.io/f/cases/104711/"
 
+["procps-3.3.15"]
+cve = ["CVE-2018-1121"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108306/"
+
 ["protobuf-2.6.1"]
 cve = [ "CVE-2015-5237" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101115/"

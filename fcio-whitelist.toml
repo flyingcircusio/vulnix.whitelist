@@ -346,7 +346,9 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101115/"
 
 ["python-2.7.14"]
 cve = [ "CVE-2018-1060",
-        "CVE-2018-1061" ]
+        "CVE-2018-1061",
+        "CVE-2018-14647",
+        "CVE-2018-20406"]
 issue_url = "https://fb.flyingcircus.io/f/cases/105034/"
 
 ["python"]

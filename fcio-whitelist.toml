@@ -306,6 +306,20 @@ cve = [
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101152/"
 
+["openssl-1.0.2o"]
+cve = [
+    "CVE-2018-0732",
+    "CVE-2018-0734",
+    "CVE-2018-0737"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108299/"
+
+["openssl-1.0.2p"]
+cve = [
+    "CVE-2018-0734"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108300/"
+
 ["openvpn-2.4.3"]
 cve = [ "CVE-2017-12166" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/102038/"

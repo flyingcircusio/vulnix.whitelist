@@ -133,6 +133,10 @@ issue_url ="https://fb.flyingcircus.io/f/cases/107626/"
 cve  = ["CVE-2018-14380"]
 issue_url = "https://fb.flyingcircus.io/f/cases/108321/"
 
+["graphviz-2.40.1"]
+cve = ["CVE-2018-10196"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108326/"
+
 ["haproxy-1.5.14"]
 cve = ["CVE-2018-10184"]
 issue_url = "https://fb.flyingcircus.io/f/cases/103210/"

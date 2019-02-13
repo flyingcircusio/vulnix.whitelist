@@ -145,6 +145,21 @@ issue_url = "https://fb.flyingcircus.io/f/cases/103210/"
 cve = ["CVE-2017-14229", "CVE-2017-14132"]
 issue_url = "https://fb.flyingcircus.io/f/cases/101993/"
 
+["jasper-2.0.14"]
+cve = [
+    "CVE-2018-18873",
+    "CVE-2018-19139",
+    "CVE-2018-19539",
+    "CVE-2018-19540",
+    "CVE-2018-19541",
+    "CVE-2018-19542",
+    "CVE-2018-19543",
+    "CVE-2018-20570",
+    "CVE-2018-20584",
+    "CVE-2018-20622"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108328/"
+
 ["kibana-4.6.5"]
 cve = ["CVE-2018-3819"]
 issue_url = "https://fb.flyingcircus.io/f/cases/103301/"

@@ -371,6 +371,10 @@ cve = [ "CVE-2018-11218",
         "CVE-2018-12326"]
 issue_url = "https://fb.flyingcircus.io/f/cases/105035/"
 
+["rsyslog-8.10.0"]
+cve = ["CVE-2018-16881"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108319/"
+
 ["ruby-2.4.4"]
 cve = [
     "CVE-2018-16395",

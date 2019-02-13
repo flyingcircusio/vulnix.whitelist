@@ -125,6 +125,10 @@ cve = [
 ]
 issue_url ="https://fb.flyingcircus.io/f/cases/107626/"
 
+["graylog-2.4.5"]
+cve  = ["CVE-2018-14380"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108321/"
+
 ["haproxy-1.5.14"]
 cve = ["CVE-2018-10184"]
 issue_url = "https://fb.flyingcircus.io/f/cases/103210/"

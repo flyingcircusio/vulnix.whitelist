@@ -307,6 +307,11 @@ issue_url = "https://fb.flyingcircus.io/f/cases/102040/"
 cve = ["CVE-2018-10754"]
 issue_url = "https://fb.flyingcircus.io/f/cases/107423/"
 
+["ncurses-6.1"]
+cve = ["CVE-2018-19217",
+       "CVE-2018-19211"]
+issue_url = https://fb.flyingcircus.io/f/cases/108345/
+
 ["net-snmp"]
 cve = ["CVE-2014-2285"]
 comment = "5.7.3 isn't actually affected, but pre-release versions where."

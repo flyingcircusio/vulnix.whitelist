@@ -467,6 +467,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/100294/"
 ["zip-3.0"]
 cve = [ "CVE-2018-13410" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/105205/"
+comment = "rejected, cve is disputed anyway, no patches available"
 
 ["zlib-1.2.8"]
 cve = [ "CVE-2016-9840", "CVE-2016-9842", "CVE-2016-9840", "CVE-2016-9842" ]

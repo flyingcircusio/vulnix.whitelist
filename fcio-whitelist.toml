@@ -310,7 +310,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/107423/"
 ["ncurses-6.1"]
 cve = ["CVE-2018-19217",
        "CVE-2018-19211"]
-issue_url = https://fb.flyingcircus.io/f/cases/108345/
+issue_url = "https://fb.flyingcircus.io/f/cases/108345/"
 
 ["net-snmp"]
 cve = ["CVE-2014-2285"]

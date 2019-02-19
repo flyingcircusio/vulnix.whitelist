@@ -442,6 +442,18 @@ cve = [
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/108304/"
 
+["sqlite-3.20.1"]
+cve = ["CVE-2018-20346"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108396/"
+
+["sqlite-3.23.1"]
+cve = ["CVE-2018-20346"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108396/"
+
+["sqlite-3.24.0"]
+cve = ["CVE-2018-20346"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108396/"
+
 ["unzip"]
 cve = [
     "CVE-2014-8139",

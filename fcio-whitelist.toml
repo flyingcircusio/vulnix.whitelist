@@ -195,6 +195,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/105033/"
 cve = [ "CVE-2017-2626" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/106544/"
 
+["libmad-0.15.1b"]
+cve = ["CVE-2018-7263"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108488/"
+
 ["libsndfile-1.0.28"]
 cve = [
         "CVE-2017-8361",

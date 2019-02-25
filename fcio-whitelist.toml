@@ -520,6 +520,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/100294/"
 cve = ["CVE-2018-20483"]
 issue_url = "https://fb.flyingcircus.io/f/cases/108397/"
 
+["wget-1.19.5"]
+cve = ["CVE-2018-20483"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108489/"
+
 ["zip-3.0"]
 cve = [ "CVE-2018-13410" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/105205/"

@@ -176,6 +176,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/108328/"
 cve = ["CVE-2018-3819"]
 issue_url = "https://fb.flyingcircus.io/f/cases/103301/"
 
+["libao-1.2.0"]
+cve = ["CVE-2017-11548"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108487/"
+
 ["libarchive-3.3.2"]
 cve = [ "CVE-2017-14501",
         "CVE-2017-14503"

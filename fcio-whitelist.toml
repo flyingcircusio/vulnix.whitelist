@@ -67,6 +67,14 @@ cve = [
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/108130/"
 
+["curl-7.61.0"]
+cve =  [
+    "CVE-2018-16839",
+    "CVE-2018-16840",
+    "CVE-2018-16842"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108128/"
+
 ["curl-7.61.1"]
 cve =  [
     "CVE-2018-16839",

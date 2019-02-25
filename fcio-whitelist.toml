@@ -42,6 +42,10 @@ cve = [
     "CVE-2018-20679"]
 issue_url = "https://fb.flyingcircus.io/f/cases/106543/"
 
+["collectd-5.7.2"]
+cve = ["CVE-2017-18240"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108486/"
+
 ["coreutils-8.29"]
 cve = ["CVE-2017-18018"]
 issue_url = "https://fb.flyingcircus.io/f/cases/104708/"

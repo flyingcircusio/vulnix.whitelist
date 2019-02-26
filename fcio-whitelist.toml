@@ -314,6 +314,14 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101280/"
 cve = [ "CVE-2018-17953" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/108295/"
 
+["kibana-6.3.2"]
+cve = [
+    "CVE-2018-17245"
+    "CVE-2018-17246"
+    "CVE-2018-3830"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108509/"
+
 ["mariadb-10.0.32"]
 cve = ["CVE-2017-15365"]
 issue_url = "https://fb.flyingcircus.io/f/cases/104855/"

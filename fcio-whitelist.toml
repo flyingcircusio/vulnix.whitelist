@@ -438,6 +438,16 @@ issue_url = "https://fb.flyingcircus.io/f/cases/108504/"
 cve = ["CVE-2018-1058"]
 issue_url = "https://fb.flyingcircus.io/f/cases/104711/"
 
+["postgresql-9.6.8"]
+cve = [
+    "CVE-2018-1058"
+    "CVE-2018-10915"
+    "CVE-2018-10925"
+    "CVE-2018-1115"
+    "CVE-2018-16850"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108505/"
+
 ["procps-3.3.15"]
 cve = ["CVE-2018-1121"]
 issue_url = "https://fb.flyingcircus.io/f/cases/108306/"

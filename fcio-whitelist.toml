@@ -530,6 +530,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/108304/"
 cve = ["CVE-2018-20346"]
 issue_url = "https://fb.flyingcircus.io/f/cases/108396/"
 
+["sqlite-3.21.0"]
+cve = ["CVE-2018-20346"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108508/"
+
 ["sqlite-3.23.1"]
 cve = ["CVE-2018-20346"]
 issue_url = "https://fb.flyingcircus.io/f/cases/108396/"

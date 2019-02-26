@@ -316,8 +316,8 @@ issue_url = "https://fb.flyingcircus.io/f/cases/108295/"
 
 ["kibana-6.3.2"]
 cve = [
-    "CVE-2018-17245"
-    "CVE-2018-17246"
+    "CVE-2018-17245",
+    "CVE-2018-17246",
     "CVE-2018-3830"
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/108509/"

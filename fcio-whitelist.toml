@@ -506,6 +506,10 @@ issue_url = "https://fb.flyingcircus.io/f/cases/108305/"
 cve = [ "CVE-2018-7169" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101090/"
 
+["sharutils-4.15.2"]
+cve = ["CVE-2018-1000097"]
+issue_url = "https://fb.flyingcircus.io/f/cases/108507/"
+
 ["spice-0.12.5"]
 cve = [ "CVE-2017-7506" ]
 issue_url = "https://fb.flyingcircus.io/f/cases/101098/"

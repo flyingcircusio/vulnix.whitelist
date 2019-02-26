@@ -484,6 +484,17 @@ issue_url = "https://fb.flyingcircus.io/f/cases/105035/"
 cve = ["CVE-2018-16881"]
 issue_url = "https://fb.flyingcircus.io/f/cases/108319/"
 
+["ruby-2.3.6"]
+cve = [
+    "CVE-2018-16395",
+    "CVE-2018-16396",
+    "CVE-2018-8777",
+    "CVE-2018-8778",
+    "CVE-2018-8779",
+    "CVE-2018-8780"
+]
+issue_url = "https://fb.flyingcircus.io/f/cases/108506/"
+
 ["ruby-2.4.4"]
 cve = [
     "CVE-2018-16395",

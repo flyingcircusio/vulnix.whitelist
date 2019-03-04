@@ -132,6 +132,7 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101837/"
 
 ["glibc-2.21"]
 cve = [
+    "CVE-2009-5155",
     "CVE-2014-7817",
     "CVE-2014-8121",
     "CVE-2015-1781",

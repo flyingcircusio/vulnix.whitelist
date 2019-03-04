@@ -403,13 +403,15 @@ issue_url = "https://fb.flyingcircus.io/f/cases/101152/"
 cve = [
     "CVE-2018-0732",
     "CVE-2018-0734",
-    "CVE-2018-0737"
+    "CVE-2018-0737",
+    "CVE-2019-1559"
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/108299/"
 
 ["openssl-1.0.2p"]
 cve = [
-    "CVE-2018-0734"
+    "CVE-2018-0734",
+    "CVE-2019-1559"
 ]
 issue_url = "https://fb.flyingcircus.io/f/cases/108300/"
 

@@ -150,6 +150,7 @@ comment = "CVE-2014-7817 fixed in 2.21 but CVE not updated"
 
 ["glibc-2.27"]
 cve = [
+     "CVE-2009-5155",
      "CVE-2018-11236",
      "CVE-2018-11237"
 ]

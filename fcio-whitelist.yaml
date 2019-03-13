@@ -172,38 +172,7 @@
     comment: |
         The CVE applies to  com.hook.android application 0.9.3 for
         Android which is not used on our end.
--
-    name: imagemagick
-    version: '6.9.1'
-    cve:
-        - CVE-2015-8900
-    comment: |
-        Addressed via Re #27180
-    status: 'inprogress'
--
-    name: imagemagick
-    version: '6.9.8-10'
-    cve:
-        - CVE-2017-11528
-        - CVE-2017-11527
-        - CVE-2017-11529
-        - CVE-2017-11524
-        - CVE-2017-11530
-        - CVE-2017-11526
-    status: 'inprogress'
-    comment: |
-        Addressed via Re #28031
--
-    name: imagemagick
-    version: '6.9.9-3'
-    cve:
-        - CVE-2017-13141
-        - CVE-2017-11724
-        - CVE-2016-7539
-    status: 'inprogress'
-    comment: |
-        Addressed with Re #28605
--
+
     name: ip
     cve:
         - CVE-2013-6034
@@ -556,15 +525,6 @@
     status: 'inprogress'
     comment: |
         Addressed with Re #28610
--
-    name: python
-    version: '2.7.11'
-    cve:
-        - CVE-2016-0772
-        - CVE-2016-5636
-    status: 'inprogress'
-    comment: |
-        Addressed with #24083
 -
     name: rabbitmq
     cve:
